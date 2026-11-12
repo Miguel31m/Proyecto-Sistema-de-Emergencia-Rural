@@ -1,3 +1,8 @@
+# LINK DE TELEGRAM PARA RECIBIR LOS AVISOS DEL BOT
+https://t.me/+GBWS72TCFQthNjQx
+
+
+
 # Software C++: Sistema de Alerta LoRa (433 MHz) + Telegram (Sin Shield)
 
 ## Tiempos y Comportamiento Programados
