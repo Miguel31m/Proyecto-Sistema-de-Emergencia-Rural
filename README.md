@@ -1,3 +1,9 @@
+# INTEGRANTES
+-Jacobo Ospina
+-Juan Pablo Gonzales
+-Miguel Angel Montoya
+
+
 # LINK DE TELEGRAM PARA RECIBIR LOS AVISOS DEL BOT
 https://t.me/+GBWS72TCFQthNjQx
 
